@@ -8,7 +8,7 @@ This project represents a **modern and stylish web interface** for JBL products.
 
 ## 🖼️ Project Preview
 
-![JBL Clone Demo](./jbl.gif.gif)
+![](./jbl.gif)
 
 ---
 
